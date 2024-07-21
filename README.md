@@ -1,3 +1,3 @@
-# this is a new project
+# local repo to online repo
 
-this project is created from local system
+this is created using the local repo and uploaded on github
